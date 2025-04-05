@@ -1,0 +1,148 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    color: #2E2F42;
+    font-size: 18px;
+    line-height: 1.16667;
+    background-color: #FFFFFF;
+    font-weight: 700;
+    text-decoration: none;
+} 
+
+.logo-part {
+    color: #4D5AE5;
+    font-size: 18px;
+    line-height: 1.16667;
+    background-color: #FFFFFF;
+}
+
+ .navigation {
+    list-style-type: none;
+}
+
+.contacts {
+    list-style-type: none;
+}
+ .nav-item {
+    font-family: "Roboto", sans-serif;
+    color: #2E2F42;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #FFFFFF;
+    font-weight: 500;
+    text-decoration: none;
+ }
+
+ .contacts-item {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #FFFFFF;
+    text-decoration: none;
+ }
+
+ .main-heading {
+    font-family: "Roboto", sans-serif;
+    color: #FFFFFF;
+    font-size: 56px;
+    line-height: 1.07143;
+    background-color: #2E2F42;
+    font-weight: 700;
+ }
+
+ .order-btn {
+    font-family: "Roboto", sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #4D5AE5;
+    font-weight: 500;
+ }
+
+ .button-section {
+    background-color: #2E2F42;
+ }
+
+.advantages-list {
+    list-style-type: none;
+}
+
+.advantages-item {
+    font-family: "Roboto", sans-serif;
+    color: #2E2F42;
+    font-size: 20px;
+    line-height: 1.2;
+    background-color: #FFFFFF;
+    font-weight: 500;
+}
+
+.advantages-text {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #FFFFFF;
+}
+
+.team{
+    background-color: #F4F4FD ;
+}
+.team-list {
+    list-style-type: none;
+}
+
+.sub-heading {
+    font-family: "Roboto", sans-serif;
+    color: #2E2F42;
+    font-size: 36px;
+    line-height: 1.11111;
+}
+.team-item {
+    font-family: "Roboto",sans-serif;
+    color: #2E2F42;
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 500;
+}
+
+.team-text {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.portfolio {
+    background-color: #FFFFFF;
+}
+
+.portfolio-list {
+    list-style-type: none;
+}
+
+.portfolio-item {
+    font-family: "Roboto", sans-serif;
+    color: #2E2F42;
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 500;
+}
+
+.portfolio-text {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.sub-text {
+    font-family: "Roboto", sans-serif;
+    color: 
+}
+
